@@ -1,0 +1,8 @@
+{
+  "name": "JABBARA-FAN",
+  "description": "A dynamic IPL fan engagement platform for real-time match reactions, multi-lingual fan connections, and collaborative matchday planning with weather and traffic insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
